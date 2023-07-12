@@ -1,0 +1,1 @@
+Nesse projeto foi abordado principalmente os conceitos de requisições, acessibilidade com recursos iterativos de uma iterface, como modais, popups e etc, e também perfomance no react.
